@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <strong>CEO @ MADPANDA3D</strong> 🐼 | Marine Corps Veteran & Aircraft Firefighter ✈️ | Hollywood, FL native
+  <strong>CEO @ MADPANDA3D</strong> 🐼 | Marine Corps Veteran 🇺🇸 | Development Professional 💻 | Cybersecurity Student 🔐 | Hollywood, FL native
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Leo Lara**, founder and CEO of **MADPANDA3D** and the architect behind production systems that blend AI, automation, and full-stack engineering. I served as an Aircraft Firefighter in the Marine Corps, then built a career in Telecom—specializing in networking and break-fix repair. Now I operate as a **solo developer supercharged by AI agents**, delivering enterprise-grade applications with the speed and agility of a startup. I'm from Hollywood, FL, and some of my passions include designing systems that solve real-world problems and helping veterans in any way I can.
+I'm **Leo Lara**, founder and CEO of **MADPANDA3D** and the architect behind production systems that blend AI, automation, and full-stack engineering. As a **Marine Corps veteran**, I bring mission-critical discipline to every project. I built my career in Telecom—specializing in networking and break-fix repair—and now operate as a **solo developer supercharged by AI agents**, delivering enterprise-grade applications with the speed and agility of a startup. Currently pursuing **Cybersecurity studies** to deepen my expertise in secure system design. I'm from Hollywood, FL, and some of my passions include designing systems that solve real-world problems and helping veterans in any way I can.
 
 My unique development approach combines deep technical expertise with a powerful AI-assisted workflow, enabling me to architect and deliver complete, production-ready systems across the full stack—from pixel-perfect React frontends to Docker-deployed infrastructure with live hosted endpoints.
 
@@ -210,7 +210,7 @@ I am currently **available for contract and freelance opportunities**. If you ar
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you'll find me on the skeet range 🎯 (mostly missing) or gutting an Alienware Graphics Amplifier to build a custom eGPU enclosure in my garage 🛠️.
+When I'm not coding, I'm building networks and working on my **home cloud infrastructure**—over **180TB of storage** ready to handle anything I throw at it 🖥️💾. Because why rent cloud storage when you can build your own datacenter? 🚀
 
 ---
 
