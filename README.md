@@ -1,110 +1,101 @@
-<!--
-**MADPANDA3D/MADPANDA3D** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
-<h1 align="center">🐼 Leo Lara (<a href="https://github.com/MADPANDA3D">MADPANDA3D</a>) 🐼</h1>
+# Leo Lara (MADPANDA3D) - Full-Stack Developer & AI Automation Specialist
 
 <p align="center">
-  <a href="https://github.com/MADPANDA3D?tab=followers">
-    <img src="https://img.shields.io/github/followers/MADPANDA3D?style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/MADPANDA3D?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/MADPANDA3D/MADPANDA3D?style=flat-square" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/MADPANDA3D">
-    <img src="https://img.shields.io/github/languages/top/MADPANDA3D/MADPANDA3D?style=flat-square" alt="Top Language" />
-  </a>
+  <strong>Full-Stack Developer | AI & Automation Specialist | Production Systems Engineer</strong>
 </p>
 
 <p align="center">
-  <strong>CEO @ MADPANDA3D</strong> 🐼 | Marine Corps Veteran & Aircraft Firefighter ✈️ | Hollywood, FL native
+  <a href="https://github.com/MADPANDA3D?tab=followers"><img src="https://img.shields.io/github/followers/MADPANDA3D?style=social" alt="Followers" /></a>
+  <a href="https://github.com/MADPANDA3D"><img src="https://img.shields.io/github/stars/MADPANDA3D?style=social" alt="Stars" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-lara-14444ab5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:leo@madpanda3d.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 🌟 About Me
-<p>
-I’m **Leo Lara**, founder and CEO of <strong>MADPANDA3D</strong> and the architect behind <em>Pandamonium.ai</em>. I served as an Aircraft Firefighter in the Marine Corps, then built a career in Telecom—specializing in networking and break-fix repair. Now I’m also an AWS employee, constantly learning from one of the industry giants. I’m from Hollywood, FL, and some of my passions include designing systems that solve real-world problems and helping veterans in any way I can.
-</p>
+## About Me
 
----
+I am a **Marine Corps veteran** and **AWS employee** with a passion for building robust, scalable, and intelligent systems. As the founder of **MADPANDA3D**, I operate as a solo developer supercharged by a team of AI agents, allowing me to architect and deliver enterprise-grade applications with the speed and agility of a startup. My background as an Aircraft Firefighter instilled a mission-critical discipline that I apply to every project, ensuring reliability and performance from the ground up.
 
-## 🚀 What I Do
-<ul>
-  <li>🤖 <strong>AI & RAG Pipelines</strong> – Vector DBs (ChromaDB, Qdrant), LlamaIndex, multi-model orchestration (GPT-4o, Claude).</li>
-  <li>☁️ <strong>DevOps & Cloud</strong> – Docker, Kubernetes, Nginx Proxy Manager, Hostinger VPS hosting, secure SSO integrations.</li>
-  <li>🛠️ <strong>Python Tooling</strong> – Obsidian Journal Converter, Budget Analyzer, G-code Optimizer, custom CLI utilities.</li>
-  <li>💼 <strong>CRM & Funnels</strong> – GoHighLevel white-label CRM (PandaHub), subscription automations, website funnels for lead gen.</li>
-  <li>🎨 <strong>Branding & Web Design</strong> – Custom logos, site design, hosting setups.</li>
-  <li>🌐 <strong>Web & WebApp Development</strong> – Building responsive websites and web applications.</li>
-  <li>🎮 <strong>3D Tech</strong> – Blender plugins, real-time print monitoring, parametric model generators, mesh analysis.</li>
-</ul>
+My unique development approach combines deep technical expertise with a powerful AI-assisted workflow, enabling me to tackle complex challenges across the full stack—from crafting pixel-perfect frontends to deploying and managing production infrastructure.
 
----
+## Core Capabilities
 
-## 💡 Expertise & Tools
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python · JavaScript · SQL · Bash</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>n8n · Flask · Django · Node.js</td>
-  </tr>
-  <tr>
-    <td><strong>AI/ML</strong></td>
-    <td>OpenAI · Anthropic Claude · LlamaIndex · Weaviate · FAISS</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>ChromaDB · Qdrant · PostgreSQL · Redis</td>
-  </tr>
-  <tr>
-    <td><strong>Infra</strong></td>
-    <td>Docker · Kubernetes · Nginx · Hostinger VPS</td>
-  </tr>
-  <tr>
-    <td><strong>3D Printing</strong></td>
-    <td>Blender · G-code Optimization · OCR Quality Analysis</td>
-  </tr>
-</table>
+My work focuses on transforming complex business needs into functional, high-performance software. I specialize in building not just applications, but entire operational systems that are automated, intelligent, and ready for production.
 
----
+*   **Production-Grade SaaS & Web Applications:** I build end-to-end, full-stack applications with a focus on clean user experience, robust backends, and seamless deployment. My flagship project, a SaaS platform for trading card collectors, has undergone over 100 release cycles, demonstrating a commitment to iterative improvement and long-term stability.
 
-## 🔭 Current Projects
-<ul>
-  <li>📝 **Obsidian Journal Converter v2.1** – AI-driven markdown journal generation with token optimization.</li>
-  <li>🤖 **Pandamonium.ai** – Panda-themed, white-label CRM built on GoHighLevel with recurring payments & automations.</li>
-  <li>🛡️ **JARVIS Hybrid AI System** – Multi-agent development pipeline (Claude Code + local LLM mesh).</li>
-  <li>📊 **Budget Analyzer** – Jupyter-based financial auditing and budget planning with military-grade logging.</li>
-  <li>💻 **Web Development & Automations** – Designing and deploying websites with custom automations and integrations.</li>
-</ul>
+*   **AI & Automation Infrastructure:** I architect and deploy the backbone for modern AI systems. This includes creating a comprehensive ecosystem of **Model Context Protocol (MCP) servers** that provide a stable, tool-rich environment for AI agents to perform complex tasks. My work in this area includes production-hosted services for vector database management, media processing, and enterprise API integration.
 
----
+*   **Enterprise API Integration & DevOps:** I have extensive experience integrating with and abstracting complex third-party APIs, such as GoHighLevel (269+ tools) and Discord. I containerize these solutions with Docker, manage them with Nginx, and deploy them to production VPS environments, ensuring they are monitored, secure, and scalable.
 
-## 📫 How to Reach Me
-<p>
-  ✉️ Email: <a href="mailto:leo@madpanda3d.com">leo@madpanda3d.com</a><br/>
-  💬 Discord: <a href="https://discord.gg/madpanda3d">@MADPANDA3D</a><br/>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/leonardo-lara-14444ab5">Leonardo Lara</a>
-</p>
+## Featured Projects
 
----
+Here are a few projects that showcase my ability to deliver complete, production-ready systems.
 
-## 🤝 Let’s Collaborate
-<p>
-I’m always open to partnering on AI automation, cloud-scale ops, web & app development, or branding projects. Whether you need a robust RAG pipeline, a sleek GoHighLevel funnel, or a panda-powered website, drop me a line!
-</p>
+### 1. MAD Card Exchange - Production SaaS Platform
 
----
+A modern, visual-first trading card collection platform designed for speed and clarity. It helps collectors scan, identify, and manage their assets with powerful tools and a clean, responsive interface.
 
-## ⚡ Fun Fact
-<p>
-When I'm not coding, you’ll find me on the skeet range 🎯 (mostly missing) or gutting an Alienware Graphics Amplifier to build a custom eGPU enclosure in my garage 🛠️.
-</p>
+*   **Key Features**: AI-powered card scanning, multi-TCG collection management, 3D card viewer, sealed pack inventory, and value-tracking dashboards.
+*   **Tech Stack**: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, Supabase (PostgreSQL, Auth, Storage), TanStack Query.
+*   **Links**: [Public Repo](https://github.com/MADPANDA3D/MAD-CARD-EXCHANGE-PUBLIC) | [101+ Releases](https://github.com/MADPANDA3D/MAD-CARD-EXCHANGE-PUBLIC/releases)
 
-<p align="center">
-  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=316,fit=crop,q=95/dJo56xnDoJCnbgxg/official-logo-mxBMZGQ8Owc8p2M2.jpeg" width="120" alt="MADPANDA3D Logo" /><br/>
-  <em>Crafting solutions with <strong>MADNESS & PANDA POWER</strong></em>
-</p>
+### 2. QDRANT-MCP - Enterprise Vector Database Infrastructure
+
+A production-grade MCP server that turns a Qdrant vector database into a fully managed memory layer for AI agents. It includes over 50 tools for ingest, retrieval, quality control, and maintenance.
+
+*   **Key Features**: Hosted endpoint, dry-run safety previews, bulk maintenance jobs, semantic de-duplication, and multi-layer caching with TTL.
+*   **Tech Stack**: Python, FastAPI, Qdrant, FastEmbed/OpenAI, Docker.
+*   **Links**: [Repository](https://github.com/MADPANDA3D/QDRANT-MCP) | **Live Endpoint**: `https://qdrant-mcp.madpanda3d.com/mcp`
+
+### 3. GHL-MCP - Comprehensive CRM Automation
+
+An extensive MCP server that exposes over 269 tools for the GoHighLevel CRM platform. It enables deep automation across contacts, messaging, opportunities, calendars, e-commerce, and more.
+
+*   **Key Features**: Multi-tenant architecture, safe-mode writes, auto-routing by location, and comprehensive health checks.
+*   **Tech Stack**: TypeScript, Node.js, Docker.
+*   **Links**: [Repository](https://github.com/MADPANDA3D/GHL-MCP)
+
+### 4. DISCORD-MCP - Multi-Language Production Service
+
+A sophisticated Discord automation server combining a Java Spring Boot core with a Python FastMCP transport layer. It provides a rich toolset for server management, moderation, and user interaction.
+
+*   **Key Features**: Async job processing, confirm-gated moderation, channel/thread management, webhook controls, and automated daily audits.
+*   **Tech Stack**: Java (Spring Boot, JDA), Python (FastMCP), Docker.
+*   **Links**: [Repository](https://github.com/MADPANDA3D/DISCORD-MCP) | **Live Endpoint**: `https://discord--mcp.madpanda3d.com/mcp`
+
+### 5. FFMPEG-MCP - Media Processing Pipeline
+
+A preset-driven FFmpeg service for automated, asynchronous media processing. It is designed for marketing automation, supporting brand kits, templates, and batch exports for social media.
+
+*   **Key Features**: Async job queues (RQ/Redis), signed download URLs, brand kit management, video analysis with rubric scoring, and automated social ad rendering.
+*   **Tech Stack**: Python, FastAPI, FFmpeg, RQ, Redis, Docker.
+*   **Links**: [Repository](https://github.com/MADPANDA3D/FFMPEG-MCP)
+
+## Technical Expertise
+
+| Category               | Technologies                                                                                             |
+| ---------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Languages**          | **TypeScript**, **Python**, **Java**, JavaScript, SQL, Bash                                                |
+| **Frontend**           | React 18, Vite, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, TanStack Query                           |
+| **Backend & APIs**     | Node.js, FastAPI, Spring Boot, Express, REST APIs, SSE, WebSockets                                         |
+| **AI & Automation**    | **MCP Server Development**, Vector Databases (Qdrant), Embeddings, LLM Orchestration, **N8N Workflows** |
+| **Databases & Storage**| PostgreSQL (Supabase), Redis, S3-compatible Storage                                                      |
+| **DevOps & Cloud**     | **Docker**, **CI/CD (GitHub Actions)**, **Nginx Proxy Manager**, VPS Hosting (Hostinger), Vercel, Railway |
+
+## Let’s Build Together
+
+I am currently available for contract and freelance opportunities. If you are looking for a developer who can deliver complete, production-ready AI and web systems with speed and precision, I would be a great fit for your team.
+
+I am most interested in:
+*   Full-stack web and SaaS application development.
+*   Custom AI/automation systems and agentic workflows.
+*   MCP server development and enterprise API integration.
+*   Production deployment, DevOps, and infrastructure management.
+
+Feel free to reach out to discuss your project.
+
+*   **Email**: [leo@madpanda3d.com](mailto:leolara@madpanda3d.com)
+*   **LinkedIn**: [linkedin.com/in/leonardo-lara-14444ab5](https://www.linkedin.com/in/leonardo-lara-14444ab5)
+*   **Discord**: @MADPANDA3D
